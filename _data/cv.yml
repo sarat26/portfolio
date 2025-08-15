@@ -2,4 +2,5 @@
   type: map
   contents:
     - name: Download my full CV
-      value: "[Click here to view my PDF](/assets/pdf/cv.pdf)"
+      value: "[Click here to view my PDF]({{ site.baseurl }}/assets/pdf/Sara_Tatke_Resume.pdf)"
+
